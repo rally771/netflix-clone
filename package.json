@@ -6,7 +6,12 @@
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "jsonwebtoken": "^9.0.2",
-    "mongoose": "^8.9.2"
+    "lucide-react": "^0.469.0",
+    "mongoose": "^8.9.2",
+    "react-hot-toast": "^2.4.1",
+    "react-player": "^2.16.0",
+    "react-router-dom": "^7.1.0",
+    "zustand": "^5.0.2"
   },
   "name": "netflix-clone",
   "version": "1.0.0",
